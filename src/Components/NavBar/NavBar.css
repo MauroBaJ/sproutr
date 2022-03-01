@@ -1,0 +1,47 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: auto;
+    background-color: rgb(40, 40, 68);
+}
+.navbar_list{
+    list-style: none;
+    background-color: rgb(40, 40, 68);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+.navbar_list_element{
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: aliceblue;
+    cursor: pointer;
+    border-top: 1px solid rgba(255,255,255,.5);
+    padding: 1rem;
+}
+.navbar_list_element:nth-child(1){
+    border-top: none;
+    margin-top: 2rem;
+}
+
+.navbar_btn{
+    display: none;
+    position: absolute;
+    right: 1rem;
+    top: .7rem;
+    padding: .5rem;
+    color: black;
+    font-size: 1.8rem;
+}
+
+@media (max-width: 500px){
+
+}
