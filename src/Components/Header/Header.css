@@ -1,0 +1,11 @@
+.head{
+    grid-area: head;
+    background-color: rgb(49, 49, 49);
+    height: min(10rem, 10vh);
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.head_icon{
+    width: 5rem;
+}

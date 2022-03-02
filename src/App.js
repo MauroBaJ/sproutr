@@ -1,13 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import MainPage from './Components/MainPage/MainPage';
 import NavBar from './Components/NavBar/NavBar';
+import Header from './Components/Header/Header';
 
 function App() {
   return (
-    <>
+    <div className='master-container'>
       <NavBar />
-    </>
+      <Header />
+    </div>
   );
 }
 
