@@ -1,7 +1,7 @@
 # SproutR
 ![Logo del proyecto](https://github.com/MauroBaJ/sproutr/blob/master/src/images/PNG/Asset%2023.png?raw=true)
 
-IoT Smart Planter4
+IoT Smart Planter
 ___
 This project will be the final assesment of my "Aplicaciones y Dispositivos IoT" class. This repository will contain the code of the WebApp where we can monitor the state of certain plant factors, such as:
 * Temperature
