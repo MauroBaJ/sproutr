@@ -1,0 +1,20 @@
+.lastMeasure{
+    background-color: rgba(29, 33, 63, 0.30);
+    width: max-content;
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+}
+.lastMeasure p{
+    color: white;
+    font-weight: bold;
+    background-color: rgba(29, 33, 63, 1);
+    width: max-content;
+    padding: 0.5rem 1rem;
+    margin:0.5rem;
+    border-radius: 1rem;
+}

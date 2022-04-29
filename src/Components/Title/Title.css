@@ -1,0 +1,22 @@
+.title{
+    background-color: #d3d3d3;
+    width: 80%;
+    margin: 3rem auto;
+    text-align: center;
+    padding: 1.5rem 0.5rem;
+    text-transform: uppercase;
+    border-radius: 1.5rem;
+    box-shadow: 0 0.5rem rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.edit{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 2rem;
+    fill: rgba(0,0,0,0.5);
+}
+.edit:hover{
+    cursor: pointer;
+}
